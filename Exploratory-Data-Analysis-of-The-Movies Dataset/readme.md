@@ -11,6 +11,7 @@ Certain columns, like:
 
 
 **Main Questions Tried to Answer:**
+
 1- How  production of Animation genre changed through 1960-2015 period?
 
 2- Which actor from the top 9 actors particibate in animation movies more and what is the average of vote for movies he particibate in?¶
